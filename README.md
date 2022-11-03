@@ -1,6 +1,9 @@
+<!-- # <p align="center" style="text-decoration: none">Hi ~ Thank you for coming!👋</p> -->
+
+
 ### 👨🏻‍💻 Hi there! I'm XieZhuoChen
 
-### 📖 Languages and Tools:
+### ⚒️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
