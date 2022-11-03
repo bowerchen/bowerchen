@@ -19,9 +19,9 @@
 
 
 ### 📈 My Github Stats
-[![xiezhuochen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowerchen&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![xiezhuochen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowerchen&count_private=true&show_icons=true&theme=radical)
 ![xiezhuochen's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=bowerchen&layout=compact&hide_border=true&langs_count=10&theme=radical)
-![](https://stats.justsong.cn/api/leetcode?username=bowerchen&cn=true&theme=radical)
+![xiezhuochen's LeetCode stats](https://stats.justsong.cn/api/leetcode?username=bowerchen&cn=true&theme=radical)
 
 
 
