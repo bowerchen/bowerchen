@@ -1,7 +1,7 @@
 <!-- # <p align="center" style="text-decoration: none">Hi ~ Thank you for coming!👋</p> -->
 
 
-### 👨🏻‍💻 Hi there! I'm Xie ZhuoChen
+### 👨🏻‍💻 Hi there!👋  I'm Xie ZhuoChen 
 
 ### ⚒️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
