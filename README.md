@@ -19,7 +19,7 @@
 
 
 ### 📈 My Github Stats
-![xiezhuochen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowerchen&count_private=true&show_icons=true&theme=radical)
+![xiezhuochen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowerchen&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 ![xiezhuochen's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=bowerchen&layout=compact&hide_border=true&langs_count=10&theme=dracula)
 <!-- ![xiezhuochen's LeetCode stats](https://stats.justsong.cn/api/leetcode?username=bowerchen&cn=true&theme=radical) -->
 
