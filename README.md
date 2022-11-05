@@ -24,6 +24,8 @@
 <!-- ![xiezhuochen's LeetCode stats](https://stats.justsong.cn/api/leetcode?username=bowerchen&cn=true&theme=radical) -->
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **bowerchen/bowerchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
