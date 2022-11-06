@@ -5,8 +5,8 @@
 
 ### ⚒️ Languages and Tools:
 ![Vue](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-NodeJs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1a73e8?style=for-the-badge&logo=css3&logoColor=white)
