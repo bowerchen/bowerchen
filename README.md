@@ -3,6 +3,8 @@
 
 ### 👨🏻‍💻 Hi there!👋  I'm Xie ZhuoChen 
 
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">/ -->
+
 ### ⚒️ Languages and Tools:
 ![Vue](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
